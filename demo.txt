@@ -1,2 +1,1 @@
-this is a demo file to understand working directory
-this is the second line
+this is the first file
